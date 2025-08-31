@@ -61,7 +61,7 @@ phone:
   link: tel:$VALUE
 
 address:
-  icon: fa-solid fa-map-location-dot
+  icon: fa-solid fa-location-dot
   text: Address
   tooltip: Address
 

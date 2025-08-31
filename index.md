@@ -1,81 +1,15 @@
 ---
 ---
 
-# bmeiilab's Website
+# Welcome to the BMEII Lab!
+The Biomedical Electrical Innovation & Integration Lab (BMEII Lab) is dedicated to integrating biomedical engineering, electrical and information technologies, and artificial intelligence to develop innovative solutions for healthcare.
+Our research focuses on physiological signal analysis, bioelectrical impedance techniques, electrical impedance tomography (EIT), wearable devices, deep learning applications, and smart healthcare platforms.
+Our goal is to create human-centered “Orange Technology” and home-based healthcare solutions for the future.
 
-An engaging 1-3 sentence description of your lab.
+We welcome students from diverse backgrounds—biomedical engineering, electrical engineering, computer science, communications, and medicine—to join our research team.
+Whether you’re interested in algorithm development, hardware design, physiological modeling, or clinical applications, you’ll find a place for your passion here at BMEII Lab.
 
 {% include section.html %}
 
-## Highlights
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
+## News
+ - 🌿 2025/08/31 – The official website of the BMEII Lab has been established.
